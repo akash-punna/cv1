@@ -1,0 +1,30 @@
+body {
+  background-color:  black;
+    color: white;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:red;
+  border-width: 5px;
+  width: 30%;
+
+}
+h2{
+  color:green;
+  font-style: oblique;
+  font-size: 30px;
+
+
+}
+table{
+  text-align: left;
+  margin: 0 auto 0 auto;
+}
+h1{
+  font-size: 50px;
+  font-family: serif;
+  color:yellow;
+}
